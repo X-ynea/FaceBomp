@@ -6,7 +6,7 @@ Welcome to FaceBomp, a fun and interactive "Whack-A-Mole" style game crafted wit
 
 FaceBomp is a simple web-based game where players click on popping moles to earn points within the time limit. The game features a dynamic display of images appearing and disappearing randomly in holes. Players can challenge themselves to achieve the highest score before the timer runs out.
 
-Check out the live demo [here](https://main--facebomp.netlify.app/)!
+Check out the live demo [here](https://facebomp.netlify.app)!
 
 <br>
 
